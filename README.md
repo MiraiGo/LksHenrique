@@ -13,8 +13,7 @@ I'm deeply fascinated by technology, particularly by its capacity to evolve and 
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/lucashfs/)
 - **Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://lkshenrique.github.io/)
 
-Feel free to reach out to me on LinkedIn or explore my portfolio to learn more about my projects and experiences. Let's connect and collaborate to create something amazing!
-
+Feel free to reach out to me on LinkedIn or explore my portfolio to learn more about my projects and experiences.
 ---
 <!---
 LksHenrique/LksHenrique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
