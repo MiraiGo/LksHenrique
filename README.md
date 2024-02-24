@@ -4,7 +4,7 @@ Hello there! I'm Lucas Henrique, a passionate Computer Engineering undergraduate
 
 ## Skills
 - **Programming Languages:** C/C++, JavaScript, HTML, CSS, Java
-- **Tools & Technologies:** [GIT/GIThub]
+- **Tools & Technologies:** [GIT/GitHub]
 
 ## About Me
 I'm deeply fascinated by technology, particularly by its capacity to evolve and simplify our daily lives.  Like technology, I'm constantly seeking ways to develop and enhance my skills. I believe in the transformative power of continuous learning and innovation. 
