@@ -1,6 +1,6 @@
 # Lucas Henrique - Computer Engineering Student
 
-Hello there! I'm Lucas Henrique, a passionate Computer Engineering undergraduate student at CEFET-MG. With a foundation in both theoretical concepts and practical applications, I thrive in the realm of software development and engineering.
+Hello there! I'm Lucas Henrique, a passionate Computer Engineering undergraduate student at CEFET-MG. With a foundation in both theoretical concepts and practical applications.
 
 ## Skills
 - **Programming Languages:** C/C++, JavaScript, HTML, CSS, Java
